@@ -1,7 +1,6 @@
 # A python rtsp player with object detection
 
-![image](https://github.com/donkeyofking/rtspplayer/demo.jpg)
-
+![image](https://github.com/donkeyofking/rtspplayer/blob/master/demo.jpg)
 
 This project is a python3 rtsp h264 decoder player, adding real-time object detection module.  
 
